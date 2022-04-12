@@ -15,6 +15,7 @@ Converting allele length in bp to repeat time based allele size.
  Download the software into your computer and put in a directory called "usat". Double click the USAT.jar to run. This software will use a new version of Java runtime enviroment V17. If your computer has an older version, please install the newest Java runtime enviroment V17 or higher from https://www.oracle.com/java/technologies/downloads/#jdk17-windows 
  
  Run USAT
+ 
  method 1: double click the forensicAllele-1.1-SNAPSHOT.jar to run
  
  or mehotd 2 in command terminal, type 
