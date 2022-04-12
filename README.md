@@ -1,5 +1,5 @@
 # USAT
-Universal STR Allele Toolkit (USAT)
+## Universal STR Allele Toolkit (USAT)
 
 USAT is a bioinformatic software with a graphic interface for universal Tandem Repeat (TR) allele manipulation toolkit, including short TR (STR). It is free for all acdemic and educational purposes. Industrial and business users need to obtain license. Please contact for more information.
 The USAT is full programmed in Java and, it is ready for running with mouse clicks only after downloading this software,so no installation is needed. 
@@ -33,5 +33,14 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
  ## Output 
  
  All output will be displayed in graphic interface in a interactive manner.
-
+ Allele table and comparison
+![What is this](USAT_viewTableAlign_panel.png)
+ 
+ Allele size/length comparison
+ ![What is this](USAT_plot_panel.png)
+ 
+ Allele comparison for multiple DNA sources
+  ![What is this](Comp_HG002_003.png)
+ 
+ 
   
