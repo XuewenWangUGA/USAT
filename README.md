@@ -21,6 +21,7 @@ Converting allele length in bp to repeat time based allele size.
  
 ` java -jar forensicAllele-1.1-SNAPSHOT.jar`
 
+For more information, please read user mannual ![What is this](USAT_user_manual.pdf)
 
 
 ## Format of input sequence file:
