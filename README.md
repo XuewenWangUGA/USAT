@@ -27,11 +27,15 @@ For more information, please read user mannual: USAT_user_manual.pdf
 
 ## Format of input sequence file:
 USAT takes a sequence file with haplotype sequence for each STR and an optional BED file for specific information at each loci.
-The format is a tabular text file with data like marker1 <tab> haplotype sequence <tab> SampleID, one haplotype per line. If there are multiple haplotypes, the same marker ID could be used for each locus. 
+The format is a tabular text file with data like marker1 <tab> haplotype sequence <tab> SampleID, one haplotype per line. If there are multiple haplotypes, the same marker ID could be used for each locus. Lines with # can be used annotation or comments. 
  
  e.g.,
+ #CODIS core STR loci for HG002		
+ 
+#Marker_Name	Sample_haplotype	SampleID
  
   MK1 CTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTAT S1
+ 
   MK1 CTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTAT S0
   
   A test dataset is provided with the software release for testing.
