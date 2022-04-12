@@ -12,11 +12,11 @@ Haplotype comprison
 Converting allele length in bp to repeat time based allele size. 
 
 ## Installation and run
- Download the software into your computer and put in a directory called "usat". Double click the USAT.jar to run. This software will use a new version of Java runtime enviroment V17. If your computer has an older version, please install the newest Java runtime enviroment V17 or higher from https://www.oracle.com/java/technologies/downloads/#jdk17-windows 
+ Download the software release zip file into your computer, unzip it into a directory called "usat". Go to the usat and double click to run. This software will use a new version of Java runtime enviroment V17. If your computer has an older version, please install the newest Java runtime enviroment V17 or higher from https://www.oracle.com/java/technologies/downloads/#jdk17-windows 
  
  Run USAT
  
- method 1: double click the forensicAllele-1.1-SNAPSHOT.jar to run
+ method 1: double click the USAT-1.1-SNAPSHOT.jar to run
  
  or mehotd 2 in command terminal, type 
  
@@ -43,6 +43,7 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
 ## Output
  
  All output will be displayed in graphic interface in an interactive manner.
+ 
  Allele table and comparison
 ![What is this](USAT_viewTableAlign_panel.png)
  
