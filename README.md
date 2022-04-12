@@ -16,11 +16,11 @@ Converting allele length in bp to repeat time based allele size.
  
  Run USAT
  
- method 1: double click the USAT-1.1-SNAPSHOT.jar to run
+ method 1: double click the USAT.jar to run
  
  or mehotd 2 in command terminal, type 
  
-` java -jar forensicAllele-1.1-SNAPSHOT.jar`
+` java -jar USAT.jar`
 
 For more information, please read user mannual: USAT_user_manual.pdf
 
