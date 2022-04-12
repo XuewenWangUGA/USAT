@@ -33,9 +33,9 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
   
   A test dataset come with the software release for testing.
  
-## output
+## Output
  
- All output will be displayed in graphic interface in a interactive manner.
+ All output will be displayed in graphic interface in an interactive manner.
  Allele table and comparison
 ![What is this](USAT_viewTableAlign_panel.png)
  
@@ -45,6 +45,6 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
  Allele comparison for multiple DNA sources
   ![What is this](Comp_HG002_003.png)
  
- ## citing
+ ## Citing
  USAT is under consideration for publication.
   
