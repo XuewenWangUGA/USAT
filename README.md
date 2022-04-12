@@ -13,7 +13,14 @@ Haplotype comprison
 Converting allele length in bp to repeat time based allele size. 
 
 ## Installation and run
- Download the software release zip file into your computer, unzip it into a directory called "usat". Go to the usat and double click to run. This software will use a new version of Java runtime enviroment V17. If your computer has an older version, please install the newest Java runtime enviroment V17 or higher from https://www.oracle.com/java/technologies/downloads/#jdk17-windows 
+ 
+ `git clone https://github.com/XuewenWangUGA/USAT`
+ 
+ or 
+ 
+ Download the software release zip file into your computer, unzip it into a directory called "USAT". 
+ 
+ Go to the USAT folder and double click to run. This software will use a new version of Java runtime enviroment V17. If your computer has an older version, please install the newest Java runtime enviroment V17 or higher from https://www.oracle.com/java/technologies/downloads/#jdk17-windows 
  
  Run USAT
  
