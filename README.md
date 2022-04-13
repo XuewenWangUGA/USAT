@@ -59,6 +59,10 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
   MK1 CTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTAT S0
   
   A test dataset is provided with the software release for testing.
+
+## Input interface
+ click Browse button to choose input files.
+ ![Input](USAT_input.png)
  
 ## Output
  
