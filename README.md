@@ -6,6 +6,16 @@ The USAT is full programmed in Java and, it is ready for running with mouse clic
 
 Latest version: v1.1
 
+## License
+Free for all academic and educational purposes. A license is needed to be obtained from us for any industrial and any other purposes. Contact us at 
+HSC Center for Human Identification
+CBH, 6th Floor
+3500 Camp Bowie Boulevard
+Fort Worth, TX 76107
+Local: 817-735-0606
+Fax: 817-735-0553
+
+
 ## Function of USAT
 USAT conducts detailed TR haplotype comparison and graphic plot to provide informative clues of difference between any alleles.
 TR allele intreactibe viewing, sorting, filtering, and comparison. 
