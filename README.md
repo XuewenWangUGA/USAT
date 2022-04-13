@@ -14,6 +14,7 @@ Haplotype sequence comprison
 Converting allele length in bp to repeat time based allele size. 
 
 ## Installation and run
+Download the software and subdirectories from Github. e.g. for software
  
  `git clone https://github.com/XuewenWangUGA/USAT`
  
