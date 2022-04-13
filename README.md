@@ -45,8 +45,8 @@ Download the software and subdirectories from Github. e.g. for software
 For more information, please read user mannual: USAT_user_manual.pdf
 
 
-## Format of input sequence file:
-USAT takes a sequence file with haplotype sequence for each STR and an optional BED file for specific information at each loci.
+## Format of input haplotype sequence file:
+USAT takes a sequence file with haplotype sequence for each STR and an optional BED file for specific information at each locus.
 The format is a tabular text file with data like marker1 <tab> haplotype sequence <tab> SampleID, one haplotype per line. If there are multiple haplotypes, the same marker ID could be used for each locus. Lines with # can be used annotation or comments. 
  
  e.g.,
