@@ -70,7 +70,7 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
  |:---- |  -------:  |  -------: | :-----: |   -------: |    -------: |          -------: |         ----: |:-------------------------: |      ---: |        ---: |                      ---: |
  |chr1	 |  230769615	| 230769683 |	D1S1656 |         3	 |           3	|                 4	|            68	|  CCTA [TCTA]n TCA [TCTA]n 	|        17 |           0 |                      0.1  |
 
- If you don't know the value of some columns, you can put 1. However, the first four column must be unique across all TR loci.
+ If you don't know the value of some columns, you can put 1. However, the first four columns must be unique across all TR loci.
  
  
  
