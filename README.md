@@ -17,12 +17,12 @@ Fax: 817-735-0553
 
 
 ## Functions of USAT
-USAT has many functions for haplotype comparison, plot, and visualizion for detailed TR haplotype comparison and graphic plot to provide informative clues of difference between any alleles, including
+USAT has many functions for haplotype comparison, plot, and visualizion for detailed TR haplotype comparison to provide informative clues of difference between any alleles, including
 
 1. TR allele interactibe viewing, sorting, filtering 
 2. Graphic plot the distribution of alleles and comparison
 3. Haplotype sequence alignment and comprison
-4. Caluation allele length in bp to repeat time based allele size
+4. Caculation allele length in bp to the number of repeat time  (allele size)
 
 ## Installation and run
 Download the software and subdirectories from Github. e.g. for software
