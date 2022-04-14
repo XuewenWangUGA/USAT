@@ -24,7 +24,7 @@ USAT has many functions for haplotype comparison, plot, and visualizion for deta
 3. Haplotype sequence alignment and comprison
 4. Caculation allele length in bp to the number of repeat time  (allele size)
 
-## Installation and run
+## Installation
 Download the software and subdirectories from Github. e.g. for software
  
  `git clone https://github.com/XuewenWangUGA/USAT`
@@ -35,7 +35,7 @@ Download the software and subdirectories from Github. e.g. for software
  
  Go to the USAT folder and double click to run. This software will use a new version of Java runtime enviroment V17. If your computer has an older version, please install the newest Java runtime enviroment V17 or higher from https://www.oracle.com/java/technologies/downloads/#jdk17-windows 
  
- Run USAT
+ ## Run USAT
  
  method 1: double click the USAT.jar to run
  
