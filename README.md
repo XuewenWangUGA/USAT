@@ -43,7 +43,7 @@ Download the software and subdirectories from Github. e.g. for software
  
 ` java -jar USAT.jar`
 
-🔑 For more information, please read user mannual 📗   __USAT_user_manual.pdf__
+🔑 For more information, please read user manual 📗   __USAT_user_manual.pdf__
 
 
 ## Format of haplotype sequence as 1st input file
