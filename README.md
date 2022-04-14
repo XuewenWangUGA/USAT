@@ -46,8 +46,8 @@ Download the software and subdirectories from Github. e.g. for software
 🔑 For more information, please read user manual 📗   __USAT_user_manual.pdf__
 
 
-## Format of haplotype sequence as 1st input file
-USAT takes a sequence file with haplotype sequence for each STR and an optional BED file for specific information at each locus.
+## Format of haplotype sequence as the 1st input file
+USAT takes a sequence file with haplotype sequence for each TR or STR.
 The format is a tabular text file with data like marker1 <tab> haplotype sequence <tab> SampleID, one haplotype per line. If there are multiple haplotypes, the same marker ID could be used for each locus. Lines with # can be used annotation or comments. 
  
  e.g.,
@@ -60,33 +60,37 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
   MK1 CTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTAT S0
   
   A test dataset is provided with the software release for testing.
-
+ 
 
 ## Format of the BED file as the 2nd input file
+ USAT take a  BED file for specific information at each locus
  The locus information is given in BED format in plain text file (https://genome.ucsc.edu/FAQ/FAQformat.html#format1). Fields are separated BY tab. It starts with a head line and then one marker locus per line. Multiple markers can be used. e.g.,
  
  |Chrom	| ChromStart |	ChromEnd  | Name	   |Left_offset	|Right_offset	|Basic_motif_period	|Ref_hap_length	|Motif	                      |Ref_allele	|Inner_offset	| Min_stutter_threshold |
  |:---- |  -------:  |  -------: | :-----: |   -------: |    -------: |          -------: |         ----: |:-------------------------: |      ---: |        ---: |                      ---: |
  |chr1	 |  230769615	| 230769683 |	D1S1656 |         3	 |           3	|                 4	|            68	|  CCTA [TCTA]n TCA [TCTA]n 	|        17 |           0 |                      0.1  |
 
+ If you don't know the value of some columns, you can put 1. However, the first four column must be unique across all TR loci.
+ 
+ 
  
 ## Input interface
- click Browse button to choose input files.
+ click __Browse__ button to choose input files.
  ![Input](USAT_input.png)
  
 ## Output
  
- All output will be displayed in graphic interface in an interactive manner.
+ All outputs will be displayed in graphic interfaces in an interactive manner.
  
  Allele table and comparison
-![What is this](USAT_viewTableAlign_panel.png)
+![table](USAT_viewTableAlign_panel.png)
  
  Allele size/length comparison
- ![What is this](USAT_plot_panel.png)
+ ![plot](USAT_plot_panel.png)
  
  Allele comparison for multiple DNA sources
-  ![What is this](Comp_HG002_003.png)
+  ![seqComp](Comp_HG002_003.png)
  
- ## Citing
- USAT is under consideration for publication.
+ ## Citing USAT
+ USAT is under consideration for offical publication.
   
