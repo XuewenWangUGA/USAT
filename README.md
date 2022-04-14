@@ -66,7 +66,7 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
  
  |Chrom	| ChromStart |	ChromEnd  | Name	   |Left_offset	|Right_offset	|Basic_motif_period	|Ref_hap_length	|Motif	                      |Ref_allele	|Inner_offset	| Min_stutter_threshold |
  |:---- |  -------:  |  -------: | :-----: |   -------: |    -------: |          -------: |         ----: |:-------------------------: |      ---- |        ---: |                      ---: |
- |chr1	 |  230769615	| 230769683 |	D1S1656 |         3	 |           3	|                 4	|            68	|  CCTA [TCTA]n TCA [TCTA]n 	|         17|           0 |                      0.1  |
+ |chr1	 |  230769615	| 230769683 |	D1S1656 |         3	 |           3	|                 4	|            68	|  CCTA [TCTA]n TCA [TCTA]n 	|        17 |           0 |                      0.1  |
 
  
 ## Input interface
