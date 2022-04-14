@@ -45,7 +45,7 @@ Download the software and subdirectories from Github. e.g. for software
 For more information, please read user mannual: USAT_user_manual.pdf
 
 
-## Format of input haplotype sequence file:
+## Format of haplotype sequence as 1st input file:
 USAT takes a sequence file with haplotype sequence for each STR and an optional BED file for specific information at each locus.
 The format is a tabular text file with data like marker1 <tab> haplotype sequence <tab> SampleID, one haplotype per line. If there are multiple haplotypes, the same marker ID could be used for each locus. Lines with # can be used annotation or comments. 
  
@@ -60,6 +60,15 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
   
   A test dataset is provided with the software release for testing.
 
+
+## Format of the BED file as the 2nd input file
+ The locus information is given in BED format in plain text file (https://genome.ucsc.edu/FAQ/FAQformat.html#format1). Fields are separated with tab. It starts with a head line and then one marker locus per line. e.g.,
+ 
+ |Chrom	| ChromStart |	ChromEnd  | Name	   |Left_offset	|Right_offset	|Basic_motif_period	|Ref_hap_length	|Motif	                      |Ref_allele	|Inner_offset	| Min_stutter_threshold |
+ |:---- |  -------:  |  -------: | :-----: |   -------: |    -------: |          -------: |         ----: |:-------------------------: |      ---- |        ---: |                      ---: |
+ |chr1	 |  230769615	| 230769683 |	D1S1656 |         3	 |           3	|                 4	|            68	|  CCTA [TCTA]n TCA [TCTA]n 	|         17|           0 |                      0.1  |
+
+ 
 ## Input interface
  click Browse button to choose input files.
  ![Input](USAT_input.png)
