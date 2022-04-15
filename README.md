@@ -25,9 +25,14 @@ USAT has many functions for haplotype comparison, plot, and visualizion for deta
 4. Caculation allele length in bp to the number of repeat time  (allele size)
 
 ## Installation
-Download the software and subdirectories from Github. e.g. for software
+Download the software and subdirectories from Github. 
  
  `git clone https://github.com/XuewenWangUGA/USAT`
+ 
+ `cd USAT`
+ 
+ and then download the subdirectories into the directory USAT
+ 
  
  or 
  
