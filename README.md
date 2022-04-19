@@ -98,4 +98,6 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
  
  ## Citing USAT
  USAT is under consideration for offical publication.
+ The preprint of manuscript is available at https://www.biorxiv.org/content/10.1101/2022.04.15.488513v1.article-metrics
+ To cite:   doi: https://doi.org/10.1101/2022.04.15.488513
   
