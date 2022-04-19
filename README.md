@@ -99,7 +99,7 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
   ![seqComp](Comp_HG002_003.png)
  
  ## Citing USAT
- USAT is under consideration for offical publication.
+ USAT is under consideration of offical publication.
  The preprint of manuscript is available at https://www.biorxiv.org/content/10.1101/2022.04.15.488513v1.article-metrics
  To cite:   doi: https://doi.org/10.1101/2022.04.15.488513
   
