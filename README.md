@@ -7,7 +7,9 @@ The USAT is full programmed in Java and, it is ready for running with mouse clic
 Latest version: v1.1
 
 ## License
-Free for all academic and educational purposes. A license is needed to be obtained from us for any industrial and any other purposes. Contact us at 
+Free for all academic and educational purposes. 
+
+A license is needed to be obtained from us for any industrial and any other purposes. Contact us at 
 HSC Center for Human Identification
 CBH, 6th Floor
 3500 Camp Bowie Boulevard
