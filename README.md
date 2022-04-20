@@ -42,6 +42,8 @@ Download the software and subdirectories from Github.
  
  Go to the USAT folder and double click to run. This software will use a new version of Java runtime enviroment V17. If your computer has an older version, please install the newest Java runtime enviroment V17 or higher from https://www.oracle.com/java/technologies/downloads/#jdk17-windows 
  
+ Download the mafft package and unzip it into a subfolder maffinwin under USAT
+ 
  ## Run USAT
  
  method 1: double click the USAT.jar to run
