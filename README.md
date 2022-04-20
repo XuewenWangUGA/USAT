@@ -9,13 +9,7 @@ Latest version: v1.1
 ## License
 Free for all academic and educational purposes. 
 
-A license is needed to be obtained from us for any industrial and any other purposes. Contact us at 
-HSC Center for Human Identification
-CBH, 6th Floor
-3500 Camp Bowie Boulevard
-Fort Worth, TX 76107
-Local: 817-735-0606
-Fax: 817-735-0553
+A license is needed to be obtained from us for any industrial and any other purposes. Please contact us.
 
 
 ## Functions of USAT
@@ -38,7 +32,8 @@ Download the software and subdirectories from Github.
  
  or 
  
- Download the software release zip file into your computer, unzip it into a directory called "USAT". 
+ Download the software release zip file into your computer from https://mafft.cbrc.jp/alignment/software/ , unzip it into a directory called "USAT".  
+ or download from Github https://github.com/ge-lab 
  
  Go to the USAT folder and double click to run. This software will use a new version of Java runtime enviroment V17. If your computer has an older version, please install the newest Java runtime enviroment V17 or higher from https://www.oracle.com/java/technologies/downloads/#jdk17-windows 
  
