@@ -33,7 +33,7 @@ Download the software and subdirectories from Github.
  or 
  
  Download the software release zip file into your computer from https://mafft.cbrc.jp/alignment/software/ , unzip it into a directory called "USAT".  
- or download from Github https://github.com/ge-lab 
+ or download whole package from Github https://github.com/ge-lab 
  
  Go to the USAT folder and double click to run. This software will use a new version of Java runtime enviroment V17. If your computer has an older version, please install the newest Java runtime enviroment V17 or higher from https://www.oracle.com/java/technologies/downloads/#jdk17-windows 
  
