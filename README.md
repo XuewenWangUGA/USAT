@@ -39,12 +39,12 @@ USAT has many functions for haplotype comparison, plot, and visualizion for deta
                   
 ###  Step 3. get the dependency
  
- For Windows user:
+ #### For Windows user:
  
  Download maffinwin from https://mafft.cbrc.jp/alignment/software/windows_without_cygwin.html  and unzip the download files into `maffinwin` under the directory USAT. 
  
  
- For Linux and MacOS: 
+#### For Linux and MacOS: 
  
 Donwload the Linux installation file from https://mafft.cbrc.jp/alignment/software/linux.html and install it. After that, to export the mafft path into environment.
 
@@ -57,13 +57,14 @@ Command for export path:
   
  or download whole package from Github https://github.com/ge-lab using giuhub download button.
  
- Go to the USAT folder and double click to run. This software will use a new version of Java runtime enviroment V17. If your computer has an older version, please install the newest Java runtime enviroment V17 or higher from https://www.oracle.com/java/technologies/downloads/#jdk17-windows 
+ #### update Java run enviroment if necessary
+ This software will use a new version of Java runtime enviroment V17. If your computer has an older version, please install the newest Java runtime enviroment V17 or higher from https://www.oracle.com/java/technologies/downloads/#jdk17-windows 
  
 
  
  ## Run USAT
  
- method 1: double click the USAT.jar to run
+ method 1: Go to the USAT folder, double click the USAT.jar to run
  
  or mehotd 2 in command terminal, type 
  
