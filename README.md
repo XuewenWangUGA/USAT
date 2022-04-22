@@ -44,8 +44,8 @@ USAT has many functions for haplotype comparison, plot, and visualizion for deta
  #### For Windows user:
  
  Download maffinwin from https://mafft.cbrc.jp/alignment/software/windows_without_cygwin.html  and unzip the download files into `maffinwin` under the directory USAT. 
+  <br/>
  
- <br/>
 #### For Linux and MacOS: 
  
 Donwload the Linux installation file from https://mafft.cbrc.jp/alignment/software/linux.html and install it. After that, to export the mafft path into environment.
@@ -56,7 +56,8 @@ Command for export path:
 
 `export PATH=$PATH: /your/path/to/mafft/`
  
-  <br/> 
+ <br/> 
+ 
  or download whole package from Github https://github.com/ge-lab using giuhub download button.
  
  
