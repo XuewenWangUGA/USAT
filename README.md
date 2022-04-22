@@ -29,7 +29,7 @@ USAT has many functions for haplotype comparison, plot, and visualizion for deta
  
  or use the github click to download button.
  
- ### Step 2. get demo and settings 
+ ### Step 2. Get demo and settings 
   
   Download the subdirectories `testData` and put `testData` under the directory USAT
                   
@@ -37,7 +37,7 @@ USAT has many functions for haplotype comparison, plot, and visualizion for deta
   
   This step is for demo data and demo settings.
                   
-###  Step 3. get the dependency
+###  Step 3. Get or update the dependency
  
  #### For Windows user:
  
