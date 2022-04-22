@@ -28,6 +28,7 @@ USAT has many functions for haplotype comparison, plot, and visualizion for deta
  `cd USAT`
  
  or use the github click to download button.
+ <br/>
  
  ### Step 2. Get demo and settings 
   
@@ -36,6 +37,7 @@ USAT has many functions for haplotype comparison, plot, and visualizion for deta
   Download the subdirectories `settings` and put `settings` under the directory USAT
   
   This step is for demo data and demo settings.
+   <br/>
                   
 ###  Step 3. Get or update the dependency
  
@@ -43,8 +45,7 @@ USAT has many functions for haplotype comparison, plot, and visualizion for deta
  
  Download maffinwin from https://mafft.cbrc.jp/alignment/software/windows_without_cygwin.html  and unzip the download files into `maffinwin` under the directory USAT. 
  
- 
- 
+ <br/>
 #### For Linux and MacOS: 
  
 Donwload the Linux installation file from https://mafft.cbrc.jp/alignment/software/linux.html and install it. After that, to export the mafft path into environment.
@@ -55,7 +56,7 @@ Command for export path:
 
 `export PATH=$PATH: /your/path/to/mafft/`
  
-  
+  <br/> 
  or download whole package from Github https://github.com/ge-lab using giuhub download button.
  
  
