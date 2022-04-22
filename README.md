@@ -27,24 +27,28 @@ Step 1. Download the software and subdirectories from Github.
  
  `cd USAT`
  
- Step 2. and then download the subdirectories `testData` and put `testData` under the directory USAT
+ Step 2. get demo and settings 
+  
+  Download the subdirectories `testData` and put `testData` under the directory USAT
                   
-                  download the subdirectories `settings` and put `settings` under the directory USAT
+  Download the subdirectories `settings` and put `settings` under the directory USAT
+  
+  This step is for demo data and demo settings.
                   
- Step 3. 
+ Step 3. get the dependency
  
  For Windows user:
  
- download maffinwin from https://mafft.cbrc.jp/alignment/software/windows_without_cygwin.html  and unzip the download files into `maffinwin` under the directory USAT. 
+ Download maffinwin from https://mafft.cbrc.jp/alignment/software/windows_without_cygwin.html  and unzip the download files into `maffinwin` under the directory USAT. 
  
  
  For Linux and MacOS: 
  
-donwload the Linux installation file from https://mafft.cbrc.jp/alignment/software/linux.html and install it. After that, to export the mafft path into environment.
+Donwload the Linux installation file from https://mafft.cbrc.jp/alignment/software/linux.html and install it. After that, to export the mafft path into environment.
 
-donwload the MacOS installation file from https://mafft.cbrc.jp/alignment/software/macosx.html and install it. After that, to export the mafft path into environment.
+Donwload the MacOS installation file from https://mafft.cbrc.jp/alignment/software/macosx.html and install it. After that, to export the mafft path into environment.
 
-command for export path: 
+Command for export path: 
 
 `export PATH=$PATH: /your/path/to/mafft/`
  
