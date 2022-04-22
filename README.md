@@ -21,23 +21,39 @@ USAT has many functions for haplotype comparison, plot, and visualizion for deta
 4. Caculation allele length in bp to the number of repeat time  (allele size)
 
 ## Installation
-Download the software and subdirectories from Github. 
+Step 1. Download the software and subdirectories from Github. 
  
  `git clone https://github.com/XuewenWangUGA/USAT`
  
  `cd USAT`
  
- and then download the subdirectories into the directory USAT
+ Step 2. and then download the subdirectories `testData` and put `testData` under the directory USAT
+                  
+                  download the subdirectories `settings` and put `settings` under the directory USAT
+                  
+ Step 3. 
+ 
+ For Windows user:
+ 
+ download maffinwin from https://mafft.cbrc.jp/alignment/software/windows_without_cygwin.html  and unzip the download files into `maffinwin` under the directory USAT. 
  
  
- or 
+ For Linux and MacOS: 
  
- Download the software release zip file into your computer from https://mafft.cbrc.jp/alignment/software/ , unzip it into a directory called "USAT".  
- or download whole package from Github https://github.com/ge-lab 
+donwload the Linux installation file from https://mafft.cbrc.jp/alignment/software/linux.html and install it. After that, to export the mafft path into environment.
+
+donwload the MacOS installation file from https://mafft.cbrc.jp/alignment/software/macosx.html and install it. After that, to export the mafft path into environment.
+
+command for export path: 
+
+`export PATH=$PATH: /your/path/to/mafft/`
+ 
+  
+ or download whole package from Github https://github.com/ge-lab using giuhub download button.
  
  Go to the USAT folder and double click to run. This software will use a new version of Java runtime enviroment V17. If your computer has an older version, please install the newest Java runtime enviroment V17 or higher from https://www.oracle.com/java/technologies/downloads/#jdk17-windows 
  
- Download the mafft package and unzip it into a subfolder maffinwin under USAT
+
  
  ## Run USAT
  
