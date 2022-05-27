@@ -62,8 +62,7 @@ Command for export path:
  
  
  #### Update Java run enviroment if necessary
- This software will use a new version of Java runtime enviroment V17. If your computer has an older version, please install the newest Java runtime enviroment V17 or higher from https://www.oracle.com/java/technologies/downloads/#jdk17-windows 
- 
+ This software will use a new version of Java runtime enviroment V17. If your computer has an older version, please install the newest Java runtime enviroment V17 or higher from  https://www.oracle.com/java/technologies/downloads/
 
  
  ## Run USAT
