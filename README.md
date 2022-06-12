@@ -112,7 +112,7 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
  
 ## Output
  
- All outputs will be displayed in graphic interfaces in an interactive manner.
+ All outputs will be displayed in graphic interfaces in an interactive manner and also can be saved as file as needed using the save botton.
  
  Allele table and comparison
 ![table](USAT_viewTableAlign_panel.png)
