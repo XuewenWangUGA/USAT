@@ -18,7 +18,7 @@ USAT has many functions for haplotype comparison, plot, and visualizion for deta
 1. TR allele interactibe viewing, sorting, filtering 
 2. Graphic plot the distribution of alleles and comparison
 3. Haplotype sequence alignment and comprison
-4. Caculation allele length in bp to the number of repeat time  (allele size)
+4. Caculation of allele length in bp to the number of repeat time  (allele size)
 
 ## Installation
 ### Step 1. Download the software from Github
