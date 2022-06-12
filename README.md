@@ -60,11 +60,11 @@ assume you installed the mafft and the bin excutable is in the direct called /yo
  
  <br/> 
  
- or download whole package from Github https://github.com/ge-lab using giuhub download button.
+ or download whole package from Github https://github.com/ge-lab using Github download button.
  
  
  #### Update Java run enviroment if necessary
- This software will use a new version of Java runtime enviroment V17. If your computer has an older version, please install the newest Java runtime enviroment V17 or higher from  https://www.oracle.com/java/technologies/downloads/
+ This software will use a new version of Java runtime enviroment V17. If your computer has an older version, please install the newest Java runtime enviroment V17 or higher from  https://www.oracle.com/java/technologies/downloads/  . Either Java JDK or SE should works.
 
  
  ## Run USAT
