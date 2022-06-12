@@ -52,7 +52,9 @@ Donwload the Linux installation file from https://mafft.cbrc.jp/alignment/softwa
 
 Donwload the MacOS installation file from https://mafft.cbrc.jp/alignment/software/macosx.html and install it. After that, to export the mafft path into environment.
 
-Command for export path: 
+Command to export path: 
+
+assume you installed the mafft and the bin excutable is in the direct called /your/path/to/mafft/
 
 `export PATH=$PATH: /your/path/to/mafft/`
  
