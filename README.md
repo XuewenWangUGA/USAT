@@ -80,7 +80,7 @@ assume you installed the mafft and the bin excutable is in the direct called /yo
 
 ## Format of haplotype sequence as the 1st input file
 USAT takes a sequence file with haplotype sequence(s) for each TR or STR.
-The format is a tabular text file with data like marker1 <tab> haplotype sequence <tab> SampleID, one haplotype per line. If there are multiple haplotypes, the same marker ID could be used for each locus. Lines with # can be used annotation or comments. 
+The format is a tabular text file with data like marker1 <tab> haplotype sequence <tab> SampleID, one haplotype per line. If there are multiple haplotypes, the same marker ID could be used for each locus. Lines with # can be used annotation or comments which will be ignored by USAT. 
  
  e.g.,
  #CODIS core STR loci for HG002		
@@ -91,12 +91,12 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
  
   MK1 CTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTATCTAT S0
   
-  A test dataset is provided with the software release for testing.
+  A test dataset is provided with the software release.
  
 
 ## Format of the BED file as the 2nd input file
  USAT take a  BED file for specific information at each locus
- The locus information is given in BED format in plain text file (https://genome.ucsc.edu/FAQ/FAQformat.html#format1). Fields are separated BY tab. It starts with a head line and then one marker locus per line. Multiple markers can be used. e.g.,
+ The locus information is given in BED format in plain text file (https://genome.ucsc.edu/FAQ/FAQformat.html#format1). Fields are separated by a tab. It starts with a head line  with "Chrom" and then one TR marker locus per line. Multiple markers can be put in a file. e.g.,
  
  |Chrom	| ChromStart |	ChromEnd  | Name	   |Left_offset	|Right_offset	|Basic_motif_period	|Ref_hap_length	|  Motif	                     |Ref_allele	|Inner_offset	| Min_stutter_threshold |
  |:---- |  -------:  |  -------: | :-----: |   -------: |    -------: |          -------: |         ----: | :-------------------------: |      ---: |        ---: |                      ---: |
