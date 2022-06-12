@@ -130,7 +130,7 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
  The user manual explaines and demonstrates the details on how to use each function.
  
  ## Citing USAT
- USAT is under a consideration of offical publication somewhere.
+ USAT is under a consideration for offical publication somewhere.
  The preprint of manuscript is available at https://www.biorxiv.org/content/10.1101/2022.04.15.488513v1.article-metrics
  
  To cite:   
