@@ -79,7 +79,7 @@ assume you installed the mafft and the bin excutable is in the direct called /yo
 
 
 ## Format of haplotype sequence as the 1st input file
-USAT takes a sequence file with haplotype sequence for each TR or STR.
+USAT takes a sequence file with haplotype sequence(s) for each TR or STR.
 The format is a tabular text file with data like marker1 <tab> haplotype sequence <tab> SampleID, one haplotype per line. If there are multiple haplotypes, the same marker ID could be used for each locus. Lines with # can be used annotation or comments. 
  
  e.g.,
