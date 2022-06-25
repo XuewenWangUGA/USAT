@@ -73,11 +73,13 @@ assume you installed the mafft and the bin excutable is in the direct called /yo
  
  ## Run USAT
  
- method 1: Go to the USAT folder, double click the USAT.jar to run
+ method 1: Go to the USAT folder, double click the __USAT.jar__ file to run
  
- or mehotd 2 in command terminal, type 
+ or 
  
-` java -jar USAT.jar`
+ mehotd 2: to run in command terminal, just type the following command and press the "enter" key
+ 
+`java -jar USAT.jar`
 
 🔑 For more information, please read user manual 📗   __USAT_user_manual.pdf__
 
