@@ -5,7 +5,6 @@ USAT is a bioinformatic software with a graphic interface for universal Tandem R
 
 The main motivation is to compare the size or length or sequence of haplotype sequences which are highly similar, and to output the comparison results in alignment or resizbale interactive graph. USAT provides a solution for deep comparison of haplotype sequences of TR in graphic interface in all major computing systems of Windows, MacOS, and Linux.
 
-It is free for all acdemic and educational purposes. Industrial and business users need to obtain license. Please contact for more information.
 
 The USAT is fullly programmed in Java and, it is ready for running with just mouse clicks.
 
