@@ -77,7 +77,7 @@ assume you installed the mafft and the bin excutable is in the direct called /yo
  
  or 
  
- mehotd 2: to run in command terminal, just type the following command and press the "enter" key
+ mehotd 2: to run through a command terminal; just type the following command and press the "enter" key
  
 `java -jar USAT.jar`
 
