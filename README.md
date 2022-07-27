@@ -139,7 +139,24 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
 ## Output
   All outputs will be displayed in graphic interfaces in an interactive manner and also can be saved as file as needed using the save botton.
  
- Allele table and comparison
+ Allele and comparison table as shown in the below image. This table is interactive data sheet, which could be sorted, drag and drop to change the order of a column, filter etc.
+ 
+ Each row is for one haploptype with the folllowing information.
+ the column "AutoID" for the automatic line number,
+ 
+ the column "Check" for selection of a haplotype in a row,
+ 
+ the column "Marker" for the name of the marker or locus,
+ 
+ the column "Allele_size" for the size of allele which is calculated repeated times using the recommendations from the national forensic database CODIS,
+ 
+ the column "Length_(bp)" is the number of nucleatide bases,
+ 
+ the column "Sequence" is the sequence of a haplotype,
+ 
+ the column "SampleID" is the information of sample names, e.g., the name of a DNA source,
+ 
+ 
 ![table](USAT_viewTableAlign_panel.png)
  
  Allele size/length comparison: in allele size or nucleotide base pair
