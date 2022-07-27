@@ -164,7 +164,7 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
  
  ![plot](USAT_plot_panel.png)
  
- Sequences of selected allele haplotypes from multiple DNA sources can be compared in an alignment view, and the asterisk is for 100% consistence betgween/among alleles.
+ Sequences of selected allele haplotypes from multiple DNA sources can be compared in an alignment view, and the asterisk is for 100% consistence between/among alleles.
  
   ![seqComp](Comp_HG002_003.png)
  
