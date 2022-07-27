@@ -33,7 +33,7 @@ MacOS 11.6.5
 
 Linux: Ubuntu 20.4
 
-USAT may work in other system if Java could run there although we did not test.
+USAT may work in other systems if Java could run there although we did not test.
 
 
 ## Installation
