@@ -85,6 +85,10 @@ assume you installed the mafft and the bin excutable is in the direct called /yo
  
  ## Run USAT
  
+ 🔑 before run USAT, please read through user manual 📗   __USAT_user_manual.pdf__
+ 
+ _Briefly_
+ 
  method 1: Go to the USAT folder, double click the __USAT.jar__ file to run
  
  or 
@@ -93,7 +97,6 @@ assume you installed the mafft and the bin excutable is in the direct called /yo
  
 `java -jar USAT.jar`
 
-🔑 For more information, please read user manual 📗   __USAT_user_manual.pdf__
 
 
 ## Format of haplotype sequence as the 1st input file
