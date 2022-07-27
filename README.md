@@ -24,6 +24,16 @@ USAT has many functions for haplotype comparison, plot, and visualizion for deta
 3. Haplotype sequence alignment and comprison
 4. Caculation of allele length in bp to the number of repeat time  (allele size)
 
+## Computing system requirement
+USAT can run across multiple computing systems. The tested systems include:
+
+Windows 10
+
+MacOS: 11.6.5
+
+Linux: Ubuntu 20.4
+
+
 ## Installation
 ### Step 1. Download the software from Github
  
