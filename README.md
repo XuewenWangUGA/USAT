@@ -29,7 +29,7 @@ USAT can run across multiple computing systems. The tested systems include:
 
 Windows 10
 
-MacOS 11.6.5
+Mac OS 11.6.5
 
 Linux: Ubuntu 20.4
 
