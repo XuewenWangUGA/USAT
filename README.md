@@ -85,7 +85,7 @@ assume you installed the mafft and the bin excutable is in the direct called /yo
  
  ## Run USAT
  
- 🔑 before run USAT, please read through user manual 📗   __USAT_user_manual.pdf__
+ 🔑 Before running USAT, please read through user manual 📗   __USAT_user_manual.pdf__
  
  _Briefly_
  
