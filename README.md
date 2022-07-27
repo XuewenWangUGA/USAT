@@ -142,6 +142,7 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
  Allele and comparison table as shown in the below image. This table is interactive data sheet, which could be sorted, drag and drop to change the order of a column, filter etc.
  
  Each row is for one haploptype with the folllowing information.
+ 
  the column "AutoID" for the automatic line number,
  
  the column "Check" for selection of a haplotype in a row,
@@ -159,10 +160,12 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
  
 ![table](USAT_viewTableAlign_panel.png)
  
- Allele size/length comparison: in allele size or nucleotide base pair
+ Allele size/length will be compared in allele size or nucleotide base pair. For detailed steps, please read the manual.
+ 
  ![plot](USAT_plot_panel.png)
  
- Allele comparison for multiple DNA sources
+ Sequences of selected allele haplotypes from multiple DNA sources can be compared in an alignment view, and the asterisk is for 100% consistence betgween/among alleles.
+ 
   ![seqComp](Comp_HG002_003.png)
  
  The user manual explaines and demonstrates the details on how to use each function.
