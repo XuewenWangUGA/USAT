@@ -29,9 +29,11 @@ USAT can run across multiple computing systems. The tested systems include:
 
 Windows 10
 
-MacOS: 11.6.5
+MacOS 11.6.5
 
 Linux: Ubuntu 20.4
+
+USAT may work in other system if Java could run there although we did not test.
 
 
 ## Installation
