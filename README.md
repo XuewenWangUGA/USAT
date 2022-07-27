@@ -129,12 +129,12 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
  
  click __Browse__ button to choose input files. 
  
- A demo data is provided for test run. Just follow the above installation steps to put the demo data into the expected directory and then click "Load demo data". This will automatically load the demo data which consist of two input files into the input boxes. Then click bottom "run" to run.  Or an user could click button "Browse" to choose the demo data if not use the button "Load demo data". 
+ A demo data is provided for a testing run. Just follow the above installation steps to put the demo data into the expected directory and then click "Load demo data". This will automatically load the demo data which consist of two input files into the input boxes above. Then click bottom "run" to run. After click the button "run", USAT will process the data set and output the results. Or an user could click button "Browse" to choose the demo data if not use the button "Load demo data". 
  
  ![Input](USAT_input.png)
  
 ## Output
- After click the button "run", USAT will process the data set and output the results. All outputs will be displayed in graphic interfaces in an interactive manner and also can be saved as file as needed using the save botton.
+  All outputs will be displayed in graphic interfaces in an interactive manner and also can be saved as file as needed using the save botton.
  
  Allele table and comparison
 ![table](USAT_viewTableAlign_panel.png)
