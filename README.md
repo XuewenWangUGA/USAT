@@ -79,21 +79,21 @@ assume you installed the mafft and the bin excutable is in the direct called /yo
  or download whole package from Github https://github.com/ge-lab using Github download button.
  
  
- #### Update Java run enviroment if necessary
- This software will use a new version of Java runtime enviroment V17. If your computer has an older version, please install the newest Java runtime enviroment V17 or higher from  https://www.oracle.com/java/technologies/downloads/  . Either Java JDK or SE should works.
+ #### Update Java run environment if necessary
+ The USAT will use the Java runtime enviroment V17. If your computer has an old version of Java runtime, please install the newest Java runtime enviroment V17 or higher from  https://www.oracle.com/java/technologies/downloads/  . Either Java JDK or SE should work.
 
  
  ## Run USAT
  
  🔑 Before running USAT, please read through user manual 📗   __USAT_user_manual.pdf__
  
- _Briefly_
+ __Briefly__
  
- method 1: Go to the USAT folder, double click the __USAT.jar__ file to run
+ Method 1: Go to the USAT folder, double click the __USAT.jar__ file to run
  
  or 
  
- mehotd 2: to run through a command terminal; just type the following command and press the "enter" key
+ Mehotd 2: to run through a command terminal; just type the following command and press the "enter" key
  
 `java -jar USAT.jar`
 
