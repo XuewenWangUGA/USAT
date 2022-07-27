@@ -60,6 +60,7 @@ USAT may work in other systems if Java could run there although we did not test.
  #### For Windows user:
  
  Download maffinwin from https://mafft.cbrc.jp/alignment/software/windows_without_cygwin.html  and unzip the download files into `maffinwin` under the directory USAT. 
+ Go to folder  "maffinwin" , create a new folder "tmp"
   <br/>
  
 #### For Linux and MacOS users: 
