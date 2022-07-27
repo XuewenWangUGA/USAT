@@ -43,7 +43,7 @@ USAT may work in other systems if Java could run there although we did not test.
  
  `cd USAT`
  
- or use the github click to download button.
+ or use the Github click to download from "code" button.
  <br/>
  
  ### Step 2. Get demo and settings 
