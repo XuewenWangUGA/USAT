@@ -8,7 +8,7 @@ The main motivation is to compare the size or length or sequence of haplotype se
 
 The USAT is fullly programmed in Java and, it is ready for running with just mouse clicks.
 
-Latest version: v1.1
+Latest version: v1.2
 
 ## License
 Free for all academic and educational purposes. 
