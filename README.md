@@ -81,7 +81,7 @@ assume you installed the mafft and the bin excutable is in the direct called /yo
  
  
  #### Update Java run environment if necessary
- The USAT will use the Java runtime enviroment V17. If your computer has an old version of Java runtime, please install the newest Java runtime enviroment V17 or higher from  https://www.oracle.com/java/technologies/downloads/  . Either Java JDK or SE should work.
+ The USAT will use the Java runtime enviroment V17. If your computer has an old version of Java runtime, please install the newest Java 17 or Java SE Development Kit 17.0.4 or higher from  https://www.oracle.com/java/technologies/downloads/  . Either Java or SE should work.
 
  
  ## Run USAT
