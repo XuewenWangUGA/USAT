@@ -165,7 +165,7 @@ Once USAT is started, you will see a welcome interface (Fig 1.).
  the column "SampleID" is the information of sample names, e.g., the name of a DNA source,
  
   
-Fig 3. ![table](USAT_viewTableAlign_panel.png)
+![table](USAT_viewTableAlign_panel.png) Fig 3.
  
  
  The "Plot distribution" will plot the atlas and bar graph for alleles. After click the "Plot distribution" button and selected the size or length,  allele size or length will be plotted for comparison in allele size or nucleotide base pair. For detailed steps, please read the manual (Fig 4.).
@@ -177,7 +177,7 @@ Fig 3. ![table](USAT_viewTableAlign_panel.png)
 
 Sequences of selected allele haplotypes from multiple DNA sources can be compared in an alignment view, and the asterisk is for 100% consistence between/among alleles (Fig 5.).
  
-    ![seqComp](Comp_HG002_003.png) Fig 5.
+![seqComp](Comp_HG002_003.png)  Fig 5.
  
  The user manual explaines and demonstrates the details on how to use each function.
  
