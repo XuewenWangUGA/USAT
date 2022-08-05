@@ -139,7 +139,7 @@ Once USAT is started, you will see a start interface.
  
  click __Browse__ button to choose input files. 
  
- A demo data is provided for a testing run. Just follow the above installation steps to put the demo data into the expected directory and then click "Load demo data". This will automatically load the demo data which consist of two input files into the input boxes above. Then click bottom "run" to run. After click the button "run", USAT will process the data set and output the results. Or an user could click button "Browse" to choose the demo data if not use the button "Load demo data". 
+ A demo data is provided for a testing run. Just follow the above installation steps to put the demo data into the expected directory and then click "Load demo data". This will automatically load the demo data which consist of two input files into the input boxes above. Then click bottom "run" to run. After click the button "Run", USAT will process the data set and output the results. Or an user could click button "Browse" to choose the demo data if not use the button "Load demo data". The box for "Temporary output" will automatically display a path and file name to save some temporary data in the directory as the input data is located. The user can change the directory and file name once the file name extension "fas.txt" is present.  
  
  ![Input](USAT_input.png)
  
