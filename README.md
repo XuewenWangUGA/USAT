@@ -127,9 +127,15 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
  
  If you don't know the value of some columns, you can put 1. However, the first four columns must be unique across all TR loci.
  
- 
+## Start interface
+
+Once USAT is started, you will see a start interface. 
+![Start](StartInterface.png)
+
  
 ## Input interface
+ 
+ Click the "Universal STR Allele Toolkit" tab to go to input interface.
  
  click __Browse__ button to choose input files. 
  
