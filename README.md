@@ -141,6 +141,7 @@ Once USAT is started, you will see a welcome interface.
  
  A demo data is provided for a testing run. Just follow the above installation steps to put the demo data into the expected directory and then click "Load demo data". This will automatically load the demo data which consist of two input files into the input boxes above. Then click bottom "run" to run. After click the button "Run", USAT will process the data set and output the results. Or an user could click button "Browse" to choose the demo data if not use the button "Load demo data". The box for "Temporary output" will automatically display a path and file name to save some temporary data in the directory as the input data is located. The user can change the directory and file name once the file name extension "fas.txt" is present.  
  
+ Fig 1. 
  ![Input](USAT_input.png)
  
 ## Output
@@ -165,13 +166,19 @@ Once USAT is started, you will see a welcome interface.
  the column "SampleID" is the information of sample names, e.g., the name of a DNA source,
  
  
+ 
+ 
+Fig 2. 
 ![table](USAT_viewTableAlign_panel.png)
  
  Allele size/length will be compared in allele size or nucleotide base pair. For detailed steps, please read the manual.
  
  ![plot](USAT_plot_panel.png)
  
- Sequences of selected allele haplotypes from multiple DNA sources can be compared in an alignment view, and the asterisk is for 100% consistence between/among alleles.
+ 
+ 
+Fig 3. 
+Sequences of selected allele haplotypes from multiple DNA sources can be compared in an alignment view, and the asterisk is for 100% consistence between/among alleles.
  
   ![seqComp](Comp_HG002_003.png)
  
