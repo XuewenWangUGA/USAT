@@ -127,9 +127,9 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
  
  If you don't know the value of some columns, you can put 1. However, the first four columns must be unique across all TR loci.
  
-## Start interface
+## Welcome interface
 
-Once USAT is started, you will see a start interface. 
+Once USAT is started, you will see a welcome interface. 
 ![Start](StartInterface.png)
 
  
