@@ -130,22 +130,21 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
 ## Welcome interface
 
 Once USAT is started, you will see a welcome interface (Fig 1.). 
-Fig1. ![Start](StartInterface.png)
+ ![Start](StartInterface.png) Fig1.
 
  
 ## Input interface
  
- Click the "Universal STR Allele Toolkit" tab to go to input interface.
+ Click the "Universal STR Allele Toolkit" tab to go to input interface (Fig 2.).
  
  click __Browse__ button to choose input files. 
  
  A demo data is provided for a testing run. Just follow the above installation steps to put the demo data into the expected directory and then click "Load demo data". This will automatically load the demo data which consist of two input files into the input boxes above. Then click bottom "run" to run. After click the button "Run", USAT will process the data set and output the results. Or an user could click button "Browse" to choose the demo data if not use the button "Load demo data". The box for "Temporary output" will automatically display a path and file name to save some temporary data in the directory as the input data is located. The user can change the directory and file name once the file name extension "fas.txt" is present.  
- 
- Fig 2. 
- ![Input](USAT_input.png)
+   
+ ![Input](USAT_input.png) Fig 2.
  
 ## Output
-  All outputs will be displayed in graphic interfaces in an interactive manner and also can be saved as file as needed using the save botton.
+  All outputs will be displayed in graphic interfaces in an interactive manner and also can be saved as file as needed using the save botton (Fig 3.).
  
  Allele and comparison table as shown in the below image. This table is interactive data sheet, which could be sorted, drag and drop to change the order of a column, filter etc.
  
@@ -166,21 +165,25 @@ Fig1. ![Start](StartInterface.png)
  the column "SampleID" is the information of sample names, e.g., the name of a DNA source,
  
   
-Fig 2. ![table](USAT_viewTableAlign_panel.png)
+Fig 3. ![table](USAT_viewTableAlign_panel.png)
  
  
- Allele size/length will be compared in allele size or nucleotide base pair. For detailed steps, please read the manual (Fig 3.).
+ The "Plot distribution" will plot the atlas and bar graph for alleles. After click the "Plot distribution" button and selected the size or length,  allele size or length will be plotted for comparison in allele size or nucleotide base pair. For detailed steps, please read the manual (Fig 4.).
 
- Fig3. ![plot](USAT_plot_panel.png)
+ ![plot](USAT_plot_panel.png)  Fig4.
  
  
  
 
-Sequences of selected allele haplotypes from multiple DNA sources can be compared in an alignment view, and the asterisk is for 100% consistence between/among alleles (Fig 4.).
+Sequences of selected allele haplotypes from multiple DNA sources can be compared in an alignment view, and the asterisk is for 100% consistence between/among alleles (Fig 5.).
  
-  Fig 4.  ![seqComp](Comp_HG002_003.png)
+    ![seqComp](Comp_HG002_003.png) Fig 5.
  
  The user manual explaines and demonstrates the details on how to use each function.
+ 
+ 
+ ## Speed of USAT
+ USAT is ultrafast and analysis will be completed in seconds. The analysis of a complete set of alleles of all 20 core CODIS (https://www.fbi.gov/services/laboratory/biometric-analysis/codis/codis-and-ndis-fact-sheet) STR in a human will take less than ~1 second for allele size and length calculation, and ~8 and  ~1 seconds for sequences comparison in windows and Linux linke systems respectively.
  
  ## Citing USAT
  USAT is under a consideration of offical publication somewhere.
