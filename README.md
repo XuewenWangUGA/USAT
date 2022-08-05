@@ -11,7 +11,7 @@ The USAT is fullly programmed in Java and, it is ready for running with just mou
 Latest version: v1.2
 
 ## License
-The USAT is under General Public License v3.0. Free to distibute and improve. Free for all academic and educational purposes. A license is needed to be obtained from us for any industrial and any other purposes. Please contact us.
+The USAT is under the General Public License v3.0. Free to distibute and improve. Free for all academic and educational purposes. A license is needed to be obtained from us for any industrial and any other purposes. Please contact us.
 
 
 ## Functions of USAT
@@ -21,6 +21,8 @@ USAT has many functions for haplotype comparison, plot, and visualizion for deta
 2. Graphic plot the distribution of alleles and comparison
 3. Haplotype sequence alignment and comprison
 4. Caculation of allele length in bp to the number of repeat time  (allele size)
+
+This helps to improve accuracy  and identification for TR or STR genotyping in human forensic and disease DNA analysis.
 
 ## Computing system requirement
 USAT can run across multiple computing systems. The tested systems include:
