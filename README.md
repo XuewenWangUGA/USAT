@@ -182,8 +182,8 @@ Sequences of selected allele haplotypes from multiple DNA sources can be compare
  The user manual explaines and demonstrates the details on how to use each function.
  
  
- ## Speed of USAT
- USAT is ultrafast and analysis will be completed in seconds. The analysis of a complete set of alleles of all 20 core CODIS (https://www.fbi.gov/services/laboratory/biometric-analysis/codis/codis-and-ndis-fact-sheet) STR in a human will take less than ~1 second for allele size and length calculation, and ~8 and  ~1 seconds for sequences comparison in windows and Linux like systems, respectively.
+ ## Running speed of USAT
+ USAT enables parallele computing and is ultrafast.  All analyses will be completed in seconds. The analysis of a complete set of alleles of all 20 core CODIS (https://www.fbi.gov/services/laboratory/biometric-analysis/codis/codis-and-ndis-fact-sheet) STR in a human will take less than ~1 second for allele size and length calculation, and ~8 and  ~1 seconds for sequences comparison in windows and Linux like systems, respectively.
  
  ## Citing USAT
  USAT is under a consideration of offical publication somewhere.
