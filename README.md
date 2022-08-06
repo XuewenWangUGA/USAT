@@ -117,15 +117,15 @@ The format is a tabular text file with data like marker1 <tab> haplotype sequenc
  
 
 ## Format of the BED file as the 2nd input file
- USAT take a  BED file for specific information at each locus
- The locus information is given in BED format in plain text file (https://genome.ucsc.edu/FAQ/FAQformat.html#format1). Fields are separated by a tab. It starts with a head line  with "Chrom" and then one TR marker locus per line. Multiple marker loci can be put in a file, just put in subsequent lines. e.g.,
+ USAT take a  BED file for specific information of each TR locus.
+ The TR locus information is given in BED format in plain text file (https://genome.ucsc.edu/FAQ/FAQformat.html#format1). Fields are separated by a tab. It starts with a head line  with "Chrom" and then one TR marker locus per line. Multiple marker loci can be put in a file, just put in subsequent lines. e.g.,
  
  |Chrom	| ChromStart |	ChromEnd  | Name	   |Left_offset	|Right_offset	|Basic_motif_period	|Ref_hap_length	|  Motif	                     |Ref_allele	|Inner_offset	| Min_stutter_threshold |
  |:---- |  -------:  |  -------: | :-----: |   -------: |    -------: |          -------: |         ----: | :-------------------------: |      ---: |        ---: |                      ---: |
  |chr1	 |  230769615	| 230769683 |	D1S1656 |         3	 |           3	|                 4	|            68	|   CCTA[TCTA]nTCA[TCTA]n 	|        17 |           0 |                      0.1  |
  |chr2|218014858|218014950|D2S1338|3|3|4|92|[GGAA]nGGAC[GGAA]n[GGCA]n|23|0|0.1|
  
- If you don't know the value of some columns, you can put 1. However, the first four columns must be unique across all TR loci.
+ The first four columns must be unique across all TR loci. The Name, Basic_motif_period, and Inner_offset must be set. If there is not value for inner offset, set "0" in this field. If you don't know the value of other columns, you can put "1" there. 
  
 ## Welcome interface
 
