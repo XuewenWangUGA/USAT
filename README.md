@@ -174,7 +174,7 @@ Once USAT is started, you will see a welcome interface (Fig 1.).
  
  <br/>
 
-Sequences of selected allele haplotypes from multiple DNA sources can be compared in an alignment view, and the asterisk is for 100% consistence between/among alleles (Fig 5.).
+Sequences of selected allele haplotypes from multiple DNA sources can be compared in an alignment view, and the asterisk is for 100% consistence between/among alleles (Fig 5.). The locus name and allele size and sample name will be joint by "_" and displayed as the aligned sequence ID. 
  
 ![seqComp](Comp_HG002_003.png)  Fig 5.
  <br/>
