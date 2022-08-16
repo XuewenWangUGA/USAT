@@ -143,6 +143,9 @@ Once USAT is started, you will see a welcome interface (Fig 1.).
    
  ![Input](USAT_input.png) Fig 2.
  <br/>
+ The third input box information is automatically generated path and file name for temporary files. If you want to change it to another custom specified path and file name, you can specify the path and file name as needed. Please keep the .fas.txt as the suffix of the file name.
+ <br/>
+ 
 ## Output
   All outputs will be displayed in graphic interfaces in an interactive manner and also can be saved as file as needed using the save botton (Fig 3.).
  
