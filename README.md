@@ -1,26 +1,26 @@
 # USAT
 ## Universal STR Allele Toolkit (USAT)
 
-USAT is a bioinformatic software with a graphic interface for universal Tandem Repeat (TR)  including short TR (STR) analysis. It takes the haplotype output from many existing softwares as the input. 
+USAT is a bioinformatic software with a graphic interface for universal Tandem Repeat (TR)  including short TR (STR) analysis. It takes the haplotype output from many existing software as the input. 
 
-The main motivation is to compare the size or length or sequence of haplotype sequences which are highly similar, and to output the comparison results in alignment or resizbale interactive graph. USAT provides a solution for deep comparison of haplotype sequences of TR in graphic interface in all major computing systems of Windows, MacOS, and Linux.
+The main motivation is to compare the size or length or sequence of haplotype sequences which are highly similar, and to output the comparison results in alignment or resizable interactive graph. USAT provides a solution for deep comparison of haplotype sequences of TR in graphic interface in all major computing systems of Windows, MacOS, and Linux.
 
 
-The USAT is fullly programmed in Java and, it is ready for running with just mouse clicks.
+The USAT is fully programmed in Java and, it is ready for running with just mouse clicks.
 
 Latest version: v1.2
 
 ## License
-The USAT is under the General Public License v3.0. Free to distibute and improve. Free for all academic and educational purposes. A license is needed to be obtained from us for any industrial and any other purposes. Please contact us.
+The USAT is under the General Public License v3.0. Free to distribute and improve. Free for all academic and educational purposes. A license is needed to be obtained from us for any industrial and any other purposes. Please contact us.
 
 
 ## Functions of USAT
-USAT has many functions for haplotype comparison, plot, and visualizion for detailed TR haplotype comparison to provide informative clues of difference between any alleles, including
+USAT has many functions for haplotype comparison, plot, and visualization for detailed TR haplotype comparison to provide informative clues of difference between any alleles, including
 
-1. TR allele interactibe viewing, sorting, filtering 
+1. TR allele interactive viewing, sorting, filtering 
 2. Graphic plot the distribution of alleles and comparison
-3. Haplotype sequence alignment and comprison
-4. Caculation of allele length in bp to the number of repeat time  (allele size)
+3. Haplotype sequence alignment and comparison
+4. Calculation of allele length in bp to the number of repeat time  (allele size)
 
 This helps to improve accuracy  and identification for TR or STR genotyping in human forensic and disease DNA analysis.
 
@@ -33,7 +33,7 @@ Mac OS 11.6.5
 
 Linux: Ubuntu 20.4
 
-USAT may work in other systems if Java could run there although we did not test. If you tested in other systemes, you are welcome to send us your feed back.
+USAT may work in other systems if Java could run there although we did not test. If you tested in other systems, you are welcome to send us your feedback.
 
 
 ## Installation
@@ -65,13 +65,13 @@ USAT may work in other systems if Java could run there although we did not test.
  
 #### For Linux and MacOS users: 
  
-Donwload the Linux installation file from https://mafft.cbrc.jp/alignment/software/linux.html and install it. After that, to export the mafft path into environment.
+Download the Linux installation file from https://mafft.cbrc.jp/alignment/software/linux.html and install it. After that, to export the mafft path into environment.
 
-Donwload the MacOS installation file from https://mafft.cbrc.jp/alignment/software/macosx.html and install it. After that, to export the mafft path into environment.
+Download the MacOS installation file from https://mafft.cbrc.jp/alignment/software/macosx.html and install it. After that, to export the mafft path into environment.
 
 Command to export path: 
 
-assume you installed the mafft and the bin excutable is in the direct called /your/path/to/mafft/
+assume you installed the mafft and the bin executable is in the direct called /your/path/to/mafft/
 
 `export PATH=$PATH: /your/path/to/mafft/`
  
@@ -81,7 +81,7 @@ assume you installed the mafft and the bin excutable is in the direct called /yo
  
  
  #### Update Java run environment if necessary
- The USAT will use the Java runtime enviroment V17. If your computer has an old version of Java runtime, please install the newest Java 17 or Java SE Development Kit 17.0.4 or higher from  https://www.oracle.com/java/technologies/downloads/  . Either Java or SE should work.
+ The USAT will use the Java runtime environment V17. If your computer has an old version of Java runtime, please install the newest Java 17 or Java SE Development Kit 17.0.4 or higher from  https://www.oracle.com/java/technologies/downloads/  . Either Java or SE should work.
 
  
  ## Run USAT
@@ -94,7 +94,7 @@ assume you installed the mafft and the bin excutable is in the direct called /yo
  
  or 
  
- Mehotd 2: to run through a command terminal; just type the following command and press the "enter" key
+ Method 2: to run through a command terminal; just type the following command and press the "enter" key
  
 `java -jar USAT.jar`
 
@@ -147,11 +147,11 @@ Once USAT is started, you will see a welcome interface (Fig 1.).
  <br/>
  
 ## Output
-  All outputs will be displayed in graphic interfaces in an interactive manner and also can be saved as file as needed using the save botton (Fig 3.).
+  All outputs will be displayed in graphic interfaces in an interactive manner and also can be saved as file as needed using the save button (Fig 3.).
  
  Allele and comparison table as shown in the below image. This table is interactive data sheet, which could be sorted, drag and drop to change the order of a column, filter etc.
  
- Each row is for one haploptype with the folllowing information.
+ Each row is for one haplotype with the following information.
  
  the column "AutoID" for the automatic line number,
  
@@ -161,7 +161,7 @@ Once USAT is started, you will see a welcome interface (Fig 1.).
  
  the column "Allele_size" for the size of allele which is calculated repeated times using the recommendations from the national forensic database CODIS,
  
- the column "Length_(bp)" is the number of nucleatide bases,
+ the column "Length_(bp)" is the number of nucleotide bases,
  
  the column "Sequence" is the sequence of a haplotype,
  
@@ -182,14 +182,14 @@ Sequences of selected allele haplotypes from multiple DNA sources can be compare
 ![seqComp](Comp_HG002_003.png)  Fig 5.
  <br/>
  
- The user manual explaines and demonstrates the details on how to use each function.
+ The user manual explains and demonstrates the details on how to use each function.
  
  
  ## Running speed of USAT
- USAT enables parallele computing and is ultrafast.  All analyses will be completed in seconds. The analysis of a complete set of alleles of all 20 core CODIS (https://www.fbi.gov/services/laboratory/biometric-analysis/codis/codis-and-ndis-fact-sheet) STR in a human will take less than ~1 second for allele size and length calculation, and ~8 and  ~1 seconds for sequences comparison in windows and Linux like systems, respectively.
+ USAT enables parallel computing and is ultrafast.  All analyses will be completed in seconds. The analysis of a complete set of alleles of all 20 core CODIS (https://www.fbi.gov/services/laboratory/biometric-analysis/codis/codis-and-ndis-fact-sheet) STR in a human will take less than ~1 second for allele size and length calculation, and ~8 and  ~1 seconds for sequences comparison in windows and Linux like systems, respectively.
  
  ## Citing USAT
- USAT is under a consideration of offical publication somewhere.
+ USAT is under a consideration of official publication somewhere.
  The preprint of manuscript is available at https://www.biorxiv.org/content/10.1101/2022.04.15.488513v1.article-metrics
  
  To cite:   
