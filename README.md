@@ -31,7 +31,7 @@ Windows 10
 
 Mac OS 11.6.5
 
-Linux: Ubuntu 20.4
+Linux: Ubuntu 20.04
 
 USAT may work in other systems if Java could run there although we did not test. If you tested in other systems, you are welcome to send us your feedback.
 
