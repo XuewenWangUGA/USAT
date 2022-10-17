@@ -184,7 +184,7 @@ Sequences of selected allele haplotypes from multiple DNA sources can be compare
  
  A comparison revealed additional DNA difference, An SNP,  within STR except size difference in CODIS STR locus D2S1338 (Fig 6).
  
- ![seqComp](D2S1338_comp.png)  Fig 6.
+ ![seqComp](D2S1338_comp.PNG)  Fig 6.
  <br/>
  
  
