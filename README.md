@@ -8,7 +8,7 @@ The main motivation is to compare the size or length or sequence of haplotype se
 
 The USAT is fully programmed in Java and, it is ready for running with just mouse clicks.
 
-Latest version: v1.3
+Latest version: v1.2
 
 ## License
 The USAT is under the General Public License v3.0. Free to distribute and improve. Free for all academic and educational purposes. A license is needed to be obtained from us for any industrial and any other purposes. Please contact us.
