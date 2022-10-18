@@ -3,7 +3,7 @@
 
 USAT is a bioinformatic software with a graphic interface for universal Tandem Repeat (TR)  including short TR (STR) analysis. It takes the haplotype output from many existing software as the input. 
 
-The main motivation is to compare the size or length of haplotype, and  discover sequence variance among haplotype sequences although they are highly similar, and then to output the comparison results in a editable alignment viewing, resizable interactive distribution graphes. USAT provides a solution for deep comparison of haplotype sequences of TR in graphic interface in all major computing systems of Windows, MacOS, and Linux.
+The main motivation is to compare the size or length of haplotype, and  discover sequence variance among haplotype sequences although they are highly similar, and then to output the comparison results in an editable alignment viewing, resizable interactive distribution graphes. USAT provides a solution for deep comparison of haplotype sequences of TR in graphic interface in all major computing systems of Windows, MacOS, and Linux.
 
 
 The USAT is fully programmed in Java and, it is ready for running with just mouse clicks.
