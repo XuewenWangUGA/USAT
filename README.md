@@ -187,6 +187,10 @@ Sequences of selected allele haplotypes from multiple DNA sources can be compare
  ![seqComp](D2S1338_comp.PNG)  Fig 6.
  <br/>
  
+ An alignment viewing for the deletion between FGA alleles (Fig. 7)
+ 
+ ![FGA deletion](FGA_deletion_fontWidth.PNG) Fig 7.
+ 
  
  The user manual explains and demonstrates the details on how to use each function.
  
