@@ -11,7 +11,7 @@ The USAT is fully programmed in Java and, it is ready for running with just mous
 Latest version: v1.2
 
 ## License
-The USAT is under the General Public License v3.0. Free to distribute and improve. Free for all academic and educational purposes. A license is needed to be obtained from us for any industrial and any other purposes. Please contact us.
+The USAT is under the Less General Public License v2.1. Free to distribute and improve. Free for all academic and educational purposes. A license is needed to be obtained from us for any industrial and any other purposes. Please contact us.
 
 
 ## Functions of USAT
