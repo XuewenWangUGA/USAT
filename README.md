@@ -203,5 +203,6 @@ Sequences of selected allele haplotypes from multiple DNA sources can be compare
  The preprint of manuscript is available at https://www.biorxiv.org/content/10.1101/2022.04.15.488513v1.article-metrics
  
  To cite:   
- doi: https://doi.org/10.1101/2022.04.15.488513
+BioRxiv doi: https://doi.org/10.1101/2022.04.15.488513
+OFFICIAL PUBLICATION: BMC BIOINFORMATICS, 2022, IN PUBLISING
   
