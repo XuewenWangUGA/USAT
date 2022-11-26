@@ -205,8 +205,8 @@ Sequences of selected allele haplotypes from multiple DNA sources can be compare
  To cite:   
 1. BioRxiv doi: https://doi.org/10.1101/2022.04.15.488513
 
-2. X Wang, B Budowle, J Ge (2022). USAT: a bioinformatic toolkit to facilitate interpretation and comparative visualization of tandem repeat sequences. 
+2. Xuewen Wang, Bruce Budowle, Jianye Ge (2022). USAT: a bioinformatic toolkit to facilitate interpretation and comparative visualization of tandem repeat sequences. 
 BMC Bioinformatics 23:13, doi: 10.1186/s12859-022-05021-1
  
-read the article at [here](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05021-1)
+Freely to read the published article at [here](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05021-1)
   
