@@ -203,7 +203,11 @@ Sequences of selected allele haplotypes from multiple DNA sources can be compare
  The preprint of manuscript is available at https://www.biorxiv.org/content/10.1101/2022.04.15.488513v1.article-metrics
  
  To cite:   
-BioRxiv doi: https://doi.org/10.1101/2022.04.15.488513
+1. BioRxiv doi: https://doi.org/10.1101/2022.04.15.488513
 
- Accepted for publication: BMC BIOINFORMATICS, 2022, in press
+2. USAT: a bioinformatic toolkit to facilitate interpretation and comparative visualization of tandem repeat sequences
+X Wang, B Budowle, J Ge
+BMC Bioinformatics 23:13, 2022 
+doi: 10.1186/s12859-022-05021-1
+read the article at [here](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05021-1)
   
